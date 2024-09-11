@@ -48,3 +48,5 @@ Make sure you have the following installed on your system:
      ```bash
      npm test
 
+## Troubleshooting
+If you encounter any issues during setup, check your Node.js and npm versions, and ensure all dependencies are correctly installed.
