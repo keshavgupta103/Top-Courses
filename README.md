@@ -32,7 +32,19 @@ Make sure you have the following installed on your system:
    ```bash
    cd top-courses
 3. **Install Dependencies**
+   Install the necessary packages using npm:
+   ```bash
+   npm install
 4. **Start the Development Server**
+   Run the app in development mode:
+    ```bash
+    npm start
 5. **Build for Production**
+   To create an optimized production build:
+    ```bash
+    npm run build
 6. **Run Tests (Optional)**
+   If there are any tests configured, you can run them with:
+     ```bash
+     npm test
 
