@@ -4,5 +4,9 @@ Top Courses is a React-based web application where users can explore a wide rang
 1) Browse courses by categories 
 2) View detailed course information 
 3) Rate courses and see overall ratings 
-4) Responsive design for seamless usage across devices 
-
+4) Responsive design for seamless usage across devices
+# Tech Stack:
+1) React
+2) Tailwind CSS
+3) JavaScript
+4) JSON for course data storage
