@@ -27,4 +27,12 @@ Make sure you have the following installed on your system:
    Clone the project from GitHub to your local machine:
    ```bash
    git clone https://github.com/keshavgupta103/top-courses.git
+2. **Navigate to the Project Directory**
+   Go to the project folder:
+   ```bash
+   cd top-courses
+3. **Install Dependencies**
+4. **Start the Development Server**
+5. **Build for Production**
+6. **Run Tests (Optional)**
 
