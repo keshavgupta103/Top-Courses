@@ -28,10 +28,3 @@ Make sure you have the following installed on your system:
    ```bash
    git clone https://github.com/keshavgupta103/top-courses.git
 
-   ## Navigate to the Project Directory
-
-Go to the project folder:
-
-```bash
-cd top-courses
-
